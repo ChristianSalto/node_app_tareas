@@ -1,0 +1,17 @@
+[
+  {
+    "id": "e34f8b88-d593-47e3-83bc-611c1d9fcbc6",
+    "desc": "Tarea de ejemplo 1",
+    "completadoEn": "2021-02-22T22:15:03.502Z"
+  },
+  {
+    "id": "29cce6c8-bd34-49e5-8c06-cb1551ce0797",
+    "desc": "Tarea de ejemplo 2",
+    "completadoEn": "2021-02-22T22:14:44.456Z"
+  },
+  {
+    "id": "4de91b3c-ae5d-4c2d-8d7c-94213364be87",
+    "desc": "Tarea de ejemplo 3",
+    "completadoEn": null
+  }
+]
